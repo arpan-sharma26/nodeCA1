@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+#one {
+	font-family: 'Inconsolata', monospace;
+}
+
+.carousel-inner > .carousel-item > img {
+	width: 640px !important;
+	height: 360px !important;
+	margin-left: 35%;
+}
+
+.footer {
+	height: 607px;
+	width: 1920px;
+	background: #000;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container-1 {
+	padding-top: 78px;
+}
+
+.header {
+	margin-left: 10%;
+	font-size: 60px;
+}
+
+.hr {
+	border-top: 1px solid grey;
+	margin: 50px auto;
+	/* margin-left: 273px; */
+	width: 80%;
+}
+
+.container-2 {
+	width: 80%;
+	margin: auto;
+	/* margin-left: 273px; */
+	display: flex;
+	justify-content: space-between;
+}
+
+.sub-header {
+	font-size: 25px;
+	color: #636e72;
+	margin-bottom: 30px;
+}
+
+.element {
+	font-size: 20px;
+	display: block;
+	color: #b2bec3;
+	margin-bottom: 20px;
+}
+
+.icon-container {
+	align-items: center;
+}
+
+h3 {
+	margin: 0;
+}
+
+.facebook {
+	color: white;
+	font-size: 36px;
+}
+
+.icon {
+	padding: 10px;
+}
